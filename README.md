@@ -15,4 +15,4 @@
 + [Materialize CSS](https://materializecss.com/) for UI styling 
 + [Duration](https://www.npmjs.com/package/duration) for calculating duration on tasks
 + [React Moment](https://www.npmjs.com/package/react-moment) for datetime formatting on frontend
-
++ [Serve](https://www.npmjs.com/package/serve) to serve the application remotely on heroku
